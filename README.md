@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Van Nguyen
 - 👀 I’m currently learning as a Full Stack Developer at Nasville Software School
-- 🌱 My key learning objectives are HTML5, CSS, Javascript, React, Python and Django
+- 🌱 My key learning objectives are HTML5, CSS, Javascript, JSON Server, React, SQL, Python and Django
 - 📫 How to reach me: www.linkedin.com/in/van-nguyen-15745b23
